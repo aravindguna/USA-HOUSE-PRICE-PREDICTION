@@ -29,4 +29,4 @@ Enter valid numerical values in all 5 input boxes and hit Predict.
 
 If everything goes well, you should be able to see the predcited Price of the house on the HTML page! alt text
 
-Other than running the model in local machine i also deployed the model in heruko website and created a unique website to do the prediction which can be done in the following URL : https://usa-house-price-prediction.herokuapp.com/
+Other than running the model in local machine i also deployed the model in heruko website and created a unique URL to do the prediction which can be done in the following URL : https://usa-house-price-prediction.herokuapp.com/
