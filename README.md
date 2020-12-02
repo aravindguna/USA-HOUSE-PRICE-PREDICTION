@@ -1,7 +1,7 @@
 # USA-HOUSE-PRICE-PREDICTION
 ML-Model-Flask-Deployment
 
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+This is a demo project to elaborate how Machine Learning Models are deployed on production using Flask API
 
 Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model), Flask (for API) installed,A account in Heruko.
